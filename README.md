@@ -232,3 +232,6 @@ This repository serves as the official landing page for AVS TV Recorder. The sof
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of AVS TV Recorder today!**
+
+---
+**Last updated:** 2026-09-12 13:55:19 UTC
