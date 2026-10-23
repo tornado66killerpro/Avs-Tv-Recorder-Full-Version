@@ -234,4 +234,4 @@ This repository serves as the official landing page for AVS TV Recorder. The sof
 **Get the most recent version of AVS TV Recorder today!**
 
 ---
-**Last updated:** 2026-10-23 18:55:53 UTC
+**Last updated:** 2026-10-23 21:56:41 UTC
